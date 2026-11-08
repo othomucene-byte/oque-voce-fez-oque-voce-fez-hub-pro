@@ -1,6 +1,6 @@
 # Oque Voce Fez - Oque Voce Fez Hub Pro
 
-Sistema moderno e interativo projetado especificamente para: "oque voce fez". Layout totalmente responsivo com controles em tempo real.
+Interface atualizada com base no seu pedido.
 
 ## 🚀 Tecnologias
 - **React 19 + TypeScript**
